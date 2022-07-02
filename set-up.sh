@@ -19,3 +19,5 @@ Now that we have the ssh key setup on our computer, we need to set it up on the 
 $ clip < ~/.ssh/id_rsa.pub
 
 Next, go ahead and open GitHub in your web browser. Navigate to Settings (under your picture), then click SSH and GPG Keys. Click New SSH Key and give it a title. Then paste your key into the Key box. If it wasn’t copied properly, go back and open the file and then copy it or try the command again.
+
+TO LEARN MORE WATCH VIDEO ON YOUTUBE https://www.youtube.com/watch?v=WgZIv5HI44o
